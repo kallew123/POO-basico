@@ -1,3 +1,38 @@
+# 🏦 Sistema Bancário Simples em Python
+
+![Python](https://img.shields.io/badge/Linguagem-Python-blue)
+![Status](https://img.shields.io/badge/Status-Em%20Aprendizado-green)
+
+---
+
+## 📌 Sobre o projeto
+
+Este projeto foi desenvolvido com o objetivo de praticar **Programação Orientada a Objetos (POO) em Python**.
+
+O sistema simula uma **conta bancária simples no terminal**, permitindo que o usuário realize operações básicas como depósito, saque e consulta de saldo.
+
+---
+
+## 🛠 Tecnologias utilizadas
+
+- **Python**
+- **Markdown** (para documentação)
+
+---
+
+## 📚 Conceitos aplicados
+
+Durante o desenvolvimento deste projeto, foram praticados os seguintes conceitos:
+
+- Classes e Objetos
+- Atributos e Métodos
+- Estruturas condicionais (`if / elif / else`)
+- Estruturas de repetição (`while`)
+- Entrada de dados com `input()`
+- Tratamento de erros com `try / except`
+
+---
+
 ## 🧠 Estrutura do sistema
 
 ### Classe `ContaBancaria`
@@ -78,4 +113,4 @@ Este projeto faz parte dos meus estudos em **Python**, com foco em aprender e ap
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Kallew123 🚀
+Desenvolvido por **Kallew123** 🚀
