@@ -101,15 +101,6 @@ Este projeto faz parte dos meus estudos em **Python**, com foco em aprender e ap
 
 ---
 
-## 🚀 Próximos passos
-
-- Implementar encapsulamento
-- Criar múltiplas contas
-- Melhorar a interface do sistema
-- Evoluir para projetos mais complexos
-
----
-
 ## 👨‍💻 Autor
 
 Desenvolvido por **Kallew123** 🚀
