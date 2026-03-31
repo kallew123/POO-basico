@@ -16,7 +16,6 @@ O sistema simula uma **conta bancária simples no terminal**, permitindo que o u
 ## 🛠 Tecnologias utilizadas
 
 - **Python**
-- **Markdown** (para documentação)
 
 ---
 
